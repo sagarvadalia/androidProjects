@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="currencies">
+        <item>US Dollars</item>
+        <item>Mexican Pesos</item>
+        <item>Canadian Dollars</item>
+        <item>Chinese Yuan</item>
+        <item>Euro</item>
+    </string-array>
+</resources>
